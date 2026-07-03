@@ -1,0 +1,9 @@
+# 注入产物（测试时生成，不入库）
+*.presenter.html
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
