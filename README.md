@@ -2,7 +2,7 @@
 
 **给任意「幻灯片式 HTML deck」一键补上演讲者模式（Presenter Mode）。**
 
-你用任何工具做出一版 HTML 网页 PPT——[frontend-slides](https://github.com/)、guizang、huashu，或者纯手写——只要它能在浏览器里按方向键翻页，这个后处理器就能给它贴上一套**演讲者视图**：
+你用任何工具做出一版 HTML 网页 PPT——frontend-slides、guizang、huashu，或者纯手写——只要它能在浏览器里按方向键翻页，这个后处理器就能给它贴上一套**演讲者视图**：
 
 按 `S` 弹出双窗——**当前页 / 下一页的像素级预览 + 逐字稿提词器 + 计时器**，演讲窗和观众窗 `←` `→` 实时同步。
 
