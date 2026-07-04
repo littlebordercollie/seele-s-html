@@ -19,3 +19,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+The presenter-mode concept and technical approach (S-key dual-window,
+iframe pixel-perfect preview, BroadcastChannel sync, speaker notes + timer)
+are inspired by and derived from html-ppt-skill by lewis, which is MIT Licensed:
+
+    Copyright (c) 2026 lewis <sudolewis@gmail.com>
+    https://github.com/lewislulu/html-ppt-skill

@@ -128,6 +128,14 @@ seele-s-html/
 
 ---
 
+## 致谢 · Credits
+
+演讲者模式的**产品概念与技术蓝图**——按 `S` 开双窗、当前页/下一页用 iframe 做像素级预览、主窗与演讲窗走 `BroadcastChannel` 同步、逐字稿 + 计时器——源自 [@lewislulu](https://github.com/lewislulu) 的 [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill)（MIT）。我第一次见到这套设计就被惊艳到，才有了这个项目。
+
+本项目把这套原本长在**单一 deck** 里的能力，重写为可挂到**任意** HTML deck 上的通用后处理器（三段适配探测 + 键盘事件驱动 + 对抗审查加固）。核心创意归 Lewis，通用化与适配层是本项目自己的工作。
+
+---
+
 ## License
 
 [MIT](LICENSE) © Seele
